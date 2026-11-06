@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าหลัก - วิทยาลัยเทคนิคประจวบคีรีขันธ์</title>
+</head>
+<body bgcolor="#A7D7E0">
+<center>
+    <!-- แบนเนอร์ด้านบน -->
+    <table width="98%" border="1" cellpadding="3" bgcolor="white">
+        <tr>
+            <td align="center">
+                <img src="images/หน้าหลัก.jpg" width="100%" height="350">
+            </td>
+        </tr>
+    </table>
+    <br>
+    <!-- แถบเมนู -->
+    <table width="88%" border="1" cellpadding="8" bgcolor="#B7DDE8">
+        <tr>
+            <td align="center" width="25%"><a href="หน้าหลัก2.html">หน้าแรก</a><img src="images/7150.jpg" width="95%" height="85"></a></td>
+            <td align="center" width="25%"><a href="เกี่ยวกับวิทยาลัย.html">เกี่ยวกับวิทยาลัย</a><img src="images/7151.jpg" width="95%" height="85"></a></td>
+            <td align="center" width="25%"><a href="ภาพกิจกรรม.html">ภาพกิจกรรม</a><img src="images/7152.jpg" width="95%" height="85"></a></td>
+            <td align="center" width="25%"><a href="สาขาวิชา.html">สาขาวิชา</a><img src="images/7153.jpg" width="95%" height="85"></a></td>
+        </tr>
+    </table>
+    <br>
+    <!-- เนื้อหาหน้าแรก -->
+    <table width="90%" border="0" cellpadding="10" bgcolor="white">
+        <tr>
+            <td align="center">
+                <h1><font color="#003B75">ยินดีต้อนรับเข้าสู่เว็บไซต์</font></h1>
+                <h2>วิทยาลัยเทคนิคประจวบคีรีขันธ์</h2>
+                <h3>PRACHUAP KHIRI KHAN TECHNICAL COLLEGE</h3>
+                <p>เรียนดี มีทักษะ ก้าวไกลสู่อนาคต</p>
+                <hr>
+                <h2><font color="#003B75">เกี่ยวกับวิทยาลัย</font></h2>
+                <p>วิทยาลัยเทคนิคประจวบคีรีขันธ์ เป็นสถานศึกษาที่จัดการเรียนการสอนด้านวิชาชีพและเทคโนโลยี มุ่งพัฒนาผู้เรียนให้มีความรู้ มีทักษะ และสามารถนำไปประกอบอาชีพได้</p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <!-- ข่าวสาร -->
+    <table width="90%" border="1" cellpadding="10" bgcolor="white">
+        <tr>
+            <td align="center">
+                <h2><font color="#003B75">ข่าวสารและกิจกรรม</font></h2>
+                <p>ประชาสัมพันธ์ข่าวสารและกิจกรรมของวิทยาลัย</p>
+                <img src="images/ข่าวสารและกิจกรรม.png" width="70%">
+            </td>
+        </tr>
+    </table>
+    <br>
+    <!-- ส่วนท้าย -->
+    <table width="90%" border="0" cellpadding="15" bgcolor="#003B75">
+        <tr>
+            <td align="center">
+                <font color="white">
+                    <h3>วิทยาลัยเทคนิคประจวบคีรีขันธ์</h3>
+                    โทรศัพท์ : 032-611-130
+                    <br>
+                    เว็บไซต์ : <a href="https://pktc.ac.th" target="_blank" style="color: white; text-decoration: underline;">www.pktc.ac.th</a>
+                    <br><br>
+                    © Prachuap Khiri Khan Technical College
+                </font>
+            </td>
+        </tr>
+    </table>
+</center>
+</body>
+</html>
